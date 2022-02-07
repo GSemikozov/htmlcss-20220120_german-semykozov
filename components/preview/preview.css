@@ -1,0 +1,11 @@
+.preview {
+    padding: 67px 0 92px;
+    background: #374FC7;
+
+}
+
+.preview__inner {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
